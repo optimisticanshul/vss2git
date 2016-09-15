@@ -1,0 +1,7 @@
+C:\vss2git\VssPhysicalLib\bin\Debug\Hpdi.VssPhysicalLib.dll
+C:\vss2git\VssPhysicalLib\bin\Debug\Hpdi.VssPhysicalLib.pdb
+C:\vss2git\VssPhysicalLib\bin\Debug\Hpdi.HashLib.dll
+C:\vss2git\VssPhysicalLib\bin\Debug\Hpdi.HashLib.pdb
+C:\vss2git\VssPhysicalLib\obj\Debug\VssPhysicalLib.csprojResolveAssemblyReference.cache
+C:\vss2git\VssPhysicalLib\obj\Debug\Hpdi.VssPhysicalLib.dll
+C:\vss2git\VssPhysicalLib\obj\Debug\Hpdi.VssPhysicalLib.pdb

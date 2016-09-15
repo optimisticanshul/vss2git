@@ -1,0 +1,5 @@
+C:\vss2git\HashLib\bin\Debug\Hpdi.HashLib.dll
+C:\vss2git\HashLib\bin\Debug\Hpdi.HashLib.pdb
+C:\vss2git\HashLib\obj\Debug\HashLib.csprojResolveAssemblyReference.cache
+C:\vss2git\HashLib\obj\Debug\Hpdi.HashLib.dll
+C:\vss2git\HashLib\obj\Debug\Hpdi.HashLib.pdb

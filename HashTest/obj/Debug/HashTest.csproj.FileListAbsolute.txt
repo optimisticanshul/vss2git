@@ -1,0 +1,8 @@
+C:\vss2git\HashTest\bin\Debug\HashTest.exe.config
+C:\vss2git\HashTest\bin\Debug\HashTest.exe
+C:\vss2git\HashTest\bin\Debug\HashTest.pdb
+C:\vss2git\HashTest\bin\Debug\Hpdi.HashLib.dll
+C:\vss2git\HashTest\bin\Debug\Hpdi.HashLib.pdb
+C:\vss2git\HashTest\obj\Debug\HashTest.csprojResolveAssemblyReference.cache
+C:\vss2git\HashTest\obj\Debug\HashTest.exe
+C:\vss2git\HashTest\obj\Debug\HashTest.pdb

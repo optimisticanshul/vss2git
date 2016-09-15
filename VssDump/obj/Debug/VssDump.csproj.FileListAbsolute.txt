@@ -1,0 +1,11 @@
+C:\vss2git\VssDump\bin\Debug\VssDump.exe.config
+C:\vss2git\VssDump\bin\Debug\VssDump.exe
+C:\vss2git\VssDump\bin\Debug\VssDump.pdb
+C:\vss2git\VssDump\bin\Debug\Hpdi.VssLogicalLib.dll
+C:\vss2git\VssDump\bin\Debug\Hpdi.VssPhysicalLib.dll
+C:\vss2git\VssDump\bin\Debug\Hpdi.HashLib.dll
+C:\vss2git\VssDump\bin\Debug\Hpdi.VssPhysicalLib.pdb
+C:\vss2git\VssDump\bin\Debug\Hpdi.VssLogicalLib.pdb
+C:\vss2git\VssDump\bin\Debug\Hpdi.HashLib.pdb
+C:\vss2git\VssDump\obj\Debug\VssDump.exe
+C:\vss2git\VssDump\obj\Debug\VssDump.pdb

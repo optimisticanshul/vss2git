@@ -1,0 +1,15 @@
+C:\vss2git\Vss2Git\bin\Debug\Vss2Git.exe.config
+C:\vss2git\Vss2Git\bin\Debug\Vss2Git.exe
+C:\vss2git\Vss2Git\bin\Debug\Vss2Git.pdb
+C:\vss2git\Vss2Git\bin\Debug\Hpdi.VssLogicalLib.dll
+C:\vss2git\Vss2Git\bin\Debug\Hpdi.VssPhysicalLib.dll
+C:\vss2git\Vss2Git\bin\Debug\Hpdi.HashLib.dll
+C:\vss2git\Vss2Git\bin\Debug\Hpdi.VssLogicalLib.pdb
+C:\vss2git\Vss2Git\bin\Debug\Hpdi.VssPhysicalLib.pdb
+C:\vss2git\Vss2Git\bin\Debug\Hpdi.HashLib.pdb
+C:\vss2git\Vss2Git\obj\Debug\Vss2Git.csprojResolveAssemblyReference.cache
+C:\vss2git\Vss2Git\obj\Debug\Hpdi.Vss2Git.MainForm.resources
+C:\vss2git\Vss2Git\obj\Debug\Hpdi.Vss2Git.Properties.Resources.resources
+C:\vss2git\Vss2Git\obj\Debug\Vss2Git.csproj.GenerateResource.Cache
+C:\vss2git\Vss2Git\obj\Debug\Vss2Git.exe
+C:\vss2git\Vss2Git\obj\Debug\Vss2Git.pdb
